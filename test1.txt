@@ -1,1 +1,2 @@
 git test 해보기
+github 이랑 연결 했다
