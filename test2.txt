@@ -1,1 +1,1 @@
-git version 관리 테스트
+version 관리 테스트
